@@ -1,5 +1,5 @@
 # *.png
-# *.csv
+*.csv
 # *.zip
 # *.pyc
 *.ipynb_checkpoints
